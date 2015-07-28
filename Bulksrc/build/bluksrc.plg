@@ -1,0 +1,161 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\开发资料\数据手册\USB-FPGA\others\可用\Bulksrc\build\bluksrc.uvproj
+Project File Date:  07/28/2015
+
+<h2>Output:</h2>
+Build target 'bulksrc'
+compiling bulksrc.c...
+..\src\bulksrc.c(12): warning C318: can't open file 'fx2.h'
+..\src\bulksrc.c(13): warning C318: can't open file 'fx2regs.h'
+..\src\bulksrc.c(14): warning C318: can't open file 'syncdly.h'
+..\SRC\BULKSRC.C(16): error C129: missing ';' before 'GotSUD'
+compiling fw.c...
+..\src\fw.c(13): warning C318: can't open file 'fx2.h'
+..\src\fw.c(14): warning C318: can't open file 'fx2regs.h'
+..\src\fw.c(15): warning C318: can't open file 'syncdly.h'
+..\SRC\FW.C(33): error C129: missing ';' before 'GotSUD'
+assembling dscr.a51...
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+..\src\bulksrc.c(12): warning C318: can't open file 'inc/fx2.h'
+..\src\bulksrc.c(13): warning C318: can't open file 'inc/fx2regs.h'
+..\src\bulksrc.c(14): warning C318: can't open file 'inc/syncdly.h'
+..\SRC\BULKSRC.C(16): error C129: missing ';' before 'GotSUD'
+compiling fw.c...
+..\src\fw.c(13): warning C318: can't open file 'inc/fx2.h'
+..\src\fw.c(14): warning C318: can't open file 'inc/fx2regs.h'
+..\src\fw.c(15): warning C318: can't open file 'inc/syncdly.h'
+..\SRC\FW.C(33): error C129: missing ';' before 'GotSUD'
+assembling dscr.a51...
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+linking...
+BL51 BANKED LINKER/LOCATER V6.22 - SN: K1MMC-IMHPCC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2009
+".\bulksrc.obj",
+".\fw.obj",
+".\dscr.obj",
+"..\lib\EZUSB.LIB",
+"..\lib\USBJmpTb.OBJ" 
+TO "bluksrc" 
+RAMSIZE(256) 
+CODE( 0x80 )
+XDATA( 0x1000 )
+*** FATAL ERROR L210: I/O ERROR ON INPUT FILE:
+    EXCEPTION 0021H: PATH OR FILE NOT FOUND
+    FILE: D:\PROGRAM FILES (X86)\KEIL\C51\LIB\;LIB\C51S.LIB
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+BL51 BANKED LINKER/LOCATER V6.22 - SN: K1MMC-IMHPCC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2009
+".\bulksrc.obj",
+".\fw.obj",
+".\dscr.obj",
+"..\lib\EZUSB.LIB",
+".\USBJmpTb.obj" 
+TO "bluksrc" 
+RAMSIZE(256) 
+CODE( 0x80 )
+XDATA( 0x1000 )
+*** FATAL ERROR L210: I/O ERROR ON INPUT FILE:
+    EXCEPTION 0021H: PATH OR FILE NOT FOUND
+    FILE: D:\PROGRAM FILES (X86)\KEIL\C51\LIB\;LIB\C51S.LIB
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+BL51 BANKED LINKER/LOCATER V6.22 - SN: K1MMC-IMHPCC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2009
+".\bulksrc.obj",
+".\fw.obj",
+".\dscr.obj",
+"..\lib\EZUSB.LIB",
+".\USBJmpTb.obj" 
+TO "bluksrc" 
+RAMSIZE(256) 
+CODE( 0x80 )
+XDATA( 0x1000 )
+*** FATAL ERROR L210: I/O ERROR ON INPUT FILE:
+    EXCEPTION 0021H: PATH OR FILE NOT FOUND
+    FILE: D:\PROGRAM FILES (X86)\KEIL\C51\LIB\;..\LIB\C51S.LIB
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+BL51 BANKED LINKER/LOCATER V6.22 - SN: K1MMC-IMHPCC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2009
+".\bulksrc.obj",
+".\fw.obj",
+".\dscr.obj",
+"..\lib\EZUSB.LIB",
+".\USBJmpTb.obj" 
+TO "bluksrc" 
+RAMSIZE(256) 
+CODE( 0x80 )
+XDATA( 0x1000 )
+*** FATAL ERROR L210: I/O ERROR ON INPUT FILE:
+    EXCEPTION 0021H: PATH OR FILE NOT FOUND
+    FILE: D:\PROGRAM FILES (X86)\KEIL\C51\LIB\;..\LIB\C51S.LIB
+Target not created
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+Program Size: data=47.5 xdata=4985 code=2325
+creating hex file from "bluksrc"...
+User command #1: ..\tls\Hex2bix -i -f 0xC2 -o ..\bulksrc.iic bulksrc.hex
+Intel Hex file to EZ-USB Binary file conversion utility
+Copyright (c) 2012-2013, Cypress Semiconductor Inc.
+Error: Unable to open input file.
+"bluksrc" - 0 Error(s), 0 Warning(s).
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+Program Size: data=47.5 xdata=4985 code=2325
+creating hex file from "bluksrc"...
+User command #1: ..\tls\Hex2bix -i -f 0xC2 -o ..\bulksrc.iic bluksrc.hex
+Intel Hex file to EZ-USB Binary file conversion utility
+Copyright (c) 2012-2013, Cypress Semiconductor Inc.
+2366 Bytes written.
+Total Code Bytes = 2325
+Conversion completed successfully.
+"bluksrc" - 0 Error(s), 0 Warning(s).
+Build target 'bulksrc'
+compiling bulksrc.c...
+compiling fw.c...
+assembling dscr.a51...
+assembling USBJmpTb.a51...
+linking...
+Program Size: data=47.5 xdata=4985 code=2325
+creating hex file from "bluksrc"...
+User command #1: ..\tls\Hex2bix -i -f 0xC2 -o ..\bulksrc.iic bluksrc.hex
+Intel Hex file to EZ-USB Binary file conversion utility
+Copyright (c) 2012-2013, Cypress Semiconductor Inc.
+2366 Bytes written.
+Total Code Bytes = 2325
+Conversion completed successfully.
+"bluksrc" - 0 Error(s), 0 Warning(s).

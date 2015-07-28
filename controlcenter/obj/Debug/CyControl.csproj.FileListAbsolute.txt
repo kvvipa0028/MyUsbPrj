@@ -1,0 +1,16 @@
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\bin\Debug\CyControl.exe
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\bin\Debug\CyControl.pdb
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\bin\Debug\CyUSB.dll
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\obj\Debug\ResolveAssemblyReference.cache
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\obj\Debug\CyControl.Form1.resources
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\obj\Debug\CyControl.Properties.Resources.resources
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\obj\Debug\CyControl.exe
+E:\开发资料\数据手册\USB-FPGA\others\USB\CY3684_EZ-USB_FX2LP_DVK\1.1\Windows Applications\Application Source files\c_sharp\controlcenter\obj\Debug\CyControl.pdb
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\obj\Debug\CyControl.exe
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\obj\Debug\CyControl.pdb
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\bin\Debug\CyControl.exe
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\bin\Debug\CyControl.pdb
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\bin\Debug\CyUSB.dll
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\obj\Debug\ResolveAssemblyReference.cache
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\obj\Debug\CyControl.Form1.resources
+E:\开发资料\数据手册\USB-FPGA\others\可用\controlcenter\obj\Debug\CyControl.Properties.Resources.resources
