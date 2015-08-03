@@ -8,3 +8,12 @@ F:\Project\Ham\C Sharp\JLusb\JLusb\obj\x86\Debug\GenerateResource.read.1.tlog
 F:\Project\Ham\C Sharp\JLusb\JLusb\obj\x86\Debug\GenerateResource.write.1.tlog
 F:\Project\Ham\C Sharp\JLusb\JLusb\obj\x86\Debug\JLusb.exe
 F:\Project\Ham\C Sharp\JLusb\JLusb\obj\x86\Debug\JLusb.pdb
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.exe
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.pdb
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\bin\Debug\JLusb.exe
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\bin\Debug\JLusb.pdb
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\bin\Debug\CyUSB.dll
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.csprojResolveAssemblyReference.cache
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Form1.resources
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Properties.Resources.resources
+D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.csproj.GenerateResource.Cache

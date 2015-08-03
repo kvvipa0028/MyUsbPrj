@@ -57,8 +57,16 @@ namespace JLusb
             }
             else
             {
-                mCyUSBInEP = mCyUSBDev.BulkInEndPt;
+                //mCyUSBInEP = mCyUSBDev.BulkInEndPt;
                 mCyUSBOutEP = mCyUSBDev.BulkOutEndPt;
+
+                foreach (CyUSBEndPoint ept in mCyUSBDev.EndPoints)
+                {
+                    if (ept.bIn && (ept.Attributes == 2))
+                    {
+                        mCyUSBInEP = ept as CyBulkEndPoint;
+                    }
+                }
             }
         } //private void USBDetected()
         public bool get_video()
