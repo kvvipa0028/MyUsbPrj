@@ -17,3 +17,15 @@ D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.csprojResol
 D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Form1.resources
 D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Properties.Resources.resources
 D:\Software\Work\usb\github\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.csproj.GenerateResource.Cache
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.exe
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.pdb
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\bin\Debug\JLusb.exe
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\bin\Debug\JLusb.pdb
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\bin\Debug\CyUSB.dll
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\Interop.WMPLib.dll
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.csproj.ResolveComReference.cache
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Form1.resources
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\JLusb.Properties.Resources.resources
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project\Ham\USBStudy\MyUsbPrj\JLusb\JLusb\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -73,7 +73,8 @@ namespace JLusb
         {
             int len = 512;
             bool received = false;
-            received = mCyUSBInEP.XferData(ref mFrame, ref len);
+            if (mCyUSBInEP != null)
+                received = mCyUSBInEP.XferData(ref mFrame, ref len);
             return received;
         }
     } // end public class JLusb
