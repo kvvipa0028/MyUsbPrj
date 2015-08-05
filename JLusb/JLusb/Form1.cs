@@ -31,8 +31,29 @@ namespace JLusb
             Bitmap mp = new Bitmap(PicBox.Image);
             //mp.PixelFormat = System.Drawing.Imaging.PixelFormat.Format8bppIndexed;
             Bitmap img = mp.Clone(new Rectangle(0, 0, mp.Width, mp.Height), System.Drawing.Imaging.PixelFormat.Format8bppIndexed);
-            PicBox.Image = mp;
-            pictureBox1.Image = img;
+            PicBox.Image = ToGray(mp);
+            //pictureBox1.Image = ToGray(mp);
+        }
+        /// <summary>
+        /// 图像灰度化
+        /// </summary>
+        /// <param name="bmp"></param>
+        /// <returns></returns>
+        private Bitmap ToGray(Bitmap bmp)
+        {
+            for (int i = 0; i < bmp.Width; i++)
+            {
+                for (int j = 0; j < bmp.Height; j++)
+                {
+                    //获取该点的像素的RGB的颜色
+                    Color color = bmp.GetPixel(i, j);
+                    //利用公式计算灰度值
+                    int gray = (int)(color.R * 0.3 + color.G * 0.59 + color.B * 0.11);
+                    Color newColor = Color.FromArgb(gray, gray, gray);
+                    bmp.SetPixel(i, j, newColor);
+                }
+            }
+            return bmp;
         }
     }
 }
